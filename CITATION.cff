@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Analysis of Qualtran and the Necessity of Quantum Computers"
+message: "If you use or reference this work, please cite it as follows."
+type: software
+
+authors:
+  - family-names: Aranda
+    given-names: Stephen
+
+year: 2024
+
+abstract: >
+  Analytical white paper examining the Qualtran quantum algorithm framework and
+  arguing for the necessity of quantum computing based on fundamental classical
+  computing limitations.
+
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/qualtran-quantum-computing-analysis"
+
+license: MIT
